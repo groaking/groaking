@@ -1,3 +1,10 @@
+<!--
+PROFILE PAGE CREATED ON 2023-11-24
+Inspired by:
+- https://github.com/seanpm2001/seanpm2001/blob/master/README.md
+- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
+-->
+
 ### Hi there 👋 It's Sam here
 
 ![Profile views](https://komarev.com/ghpvc/?username=groaking)

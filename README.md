@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, especially on machine learning and data analysis. I quite often use Python to do math problems, too!
 - 💬 Ask me about quantum physics. You are more than welcome to befuddle me!
 - 😄 Pronouns: He/Him/His/Himself
-- ⚡ Fun fact: Sometimes I do **[groak](https://www.vocabulary.com/dictionary/groak)** when I study, often for hours. It's one of the ways I can understand the subject materials.
+- ⚡ Fun fact: **[to groak](https://www.vocabulary.com/dictionary/groak)** means *to longingly stare or look at something*

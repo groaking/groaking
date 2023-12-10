@@ -9,9 +9,9 @@ Inspired by:
 
 ![Profile views](https://komarev.com/ghpvc/?username=groaking)
 
-|||
+<!-- |||
 |:-:|:-:|
-| [![groaking's GitHub stats](https://github-readme-stats.vercel.app/api?username=groaking&show_icons=true&include_all_commits=true&show=prs_merged_percentage&theme=dracula&line_height=24)](https://github.com/anuraghazra/github-readme-stats) | [![groaking's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groaking&langs_count=5&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) |
+| [![groaking's GitHub stats](https://github-readme-stats.vercel.app/api?username=groaking&show_icons=true&include_all_commits=true&show=prs_merged_percentage&theme=dracula&line_height=24)](https://github.com/anuraghazra/github-readme-stats) | [![groaking's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groaking&langs_count=5&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) | -->
 
 <!-- [![groaking's GitHub Streak](https://streak-stats.demolab.com/?user=groaking)](https://git.io/streak-stats) -->
 
